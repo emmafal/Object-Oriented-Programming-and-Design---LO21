@@ -1,0 +1,5 @@
+Pour build en mode console, buildez avec Cmake
+Pour build en mode graphique, buildez avec le Qmake à l'intérieur de qt_jeu
+
+Console mode -> build with Cmake
+Graphic mode -> build with Qmake inside qt_jeu

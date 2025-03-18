@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/abeille_blanc.png</file>
+        <file>images/fourmi_blanc.png</file>
+        <file>images/araignee_blanc.png</file>
+        <file>images/coccinelle_blanc.png</file>
+        <file>images/scarabee_blanc.png</file>
+        <file>images/cloporte_blanc.png</file>
+        <file>images/sauterelle_blanc.png</file>
+        <file>images/moustique_blanc.png</file>
+
+        <file>images/abeille_noir.png</file>
+        <file>images/fourmi_noir.png</file>
+        <file>images/araignee_noir.png</file>
+        <file>images/coccinelle_noir.png</file>
+        <file>images/scarabee_noir.png</file>
+        <file>images/cloporte_noir.png</file>
+        <file>images/sauterelle_noir.png</file>
+        <file>images/moustique_noir.png</file>
+    </qresource>
+</RCC>
