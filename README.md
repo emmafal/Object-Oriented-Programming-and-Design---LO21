@@ -10,7 +10,17 @@ As part of the course, we learned in groups of four to develop the game 'Hive' i
 - **C++** for object-oriented programming
 - **Qt** for creating a graphical user interface (GUI)
 - **UML** for designing software
-  
+
+## Overview
+
+Console mode
+
+![image](https://github.com/user-attachments/assets/3277be72-8d2c-48ae-83c0-e5bb690ed92f)
+
+Graphic mode
+
+![image](https://github.com/user-attachments/assets/c2f21556-9e7b-402b-a6f1-fecc99aaaa34)
+
 ## Repository Structure  
 
 - `lo21-jeu/` – Source code of the project  
